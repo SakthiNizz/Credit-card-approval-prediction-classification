@@ -74,7 +74,7 @@ git init
 Clone the project
 
 ```bash
-git clone https://github.com/semasuka/Credit-card-approval-prediction-classification.git
+git clone https://github.com/SakthiNizz/Credit-card-approval-prediction-classification.git
 ```
 
 enter the project directory
@@ -104,7 +104,7 @@ conda list
 Start the streamlit server locally
 
 ```bash
-streamlit run cc_approval_pred.py
+streamlit run app.py
 ```
 If you are having issue with streamlit, please follow [this tutorial on how to set up streamlit](https://docs.streamlit.io/library/get-started/installation)
 
